@@ -21,8 +21,9 @@
   }
   .offer-card:hover{
     transform: scale(1.1) translateX(5px) translateY(5px);
-    box-shadow: 1px 1px 7px rgb(207, 72, 201),
-    1px 1px 7px rgb(207, 72, 201);
+    
+    box-shadow: 1px 1px 7px rgb(43, 39, 42),
+    1px 1px 7px rgb(46, 44, 46);
   }
   .offer-image {
     max-width: 100%;
